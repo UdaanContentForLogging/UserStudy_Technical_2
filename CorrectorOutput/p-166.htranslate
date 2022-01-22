@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+  </title>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="tesseract 5.0.0-alpha-20201231-256-g73a32" name="ocr-system"/>
+  <meta content="ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf" name="ocr-capabilities"/>
+ </head>
+ <body>
+  <div class="ocr_page" id="page_1" title='image "/home/ruralivrs/book-ocr/output_books/UnderstandingCombustion/page_images/p-166.jpg"; bbox 0 0 2481 3508; ppageno 0'>
+   <p class="ocr_par" id="par_1_1" lang="eng" title="bbox 451 302 1322 345">
+    <span class="ocr_sent" title="bbox 451 302 1322 337;">
+     16 Emissions from Combustion Systems
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_2" lang="eng" title="bbox 448 432 2182 701">
+    <span class="ocr_sent" title="bbox 448 432 2180 524;">
+     The emissions from an engine as measured at the exhaust pipe with a range of fuels varies from 2 to 10 g/M J for CO, 0.05
+    </span>
+    <span class="ocr_sent" title="bbox 1472 491 1590 524;">
+     to 0.2
+    </span>
+    <span class="ocr_sent" title="bbox 1611 485 2122 534;">
+     g/M J for NO, and 0.01
+    </span>
+    <span class="ocr_sent" title="bbox 448 493 2180 580;">
+     to 0.1
+    </span>
+    <span class="ocr_sent" title="bbox 524 545 854 590;">
+     g/MJ for UHC.
+    </span>
+    <span class="ocr_sent" title="bbox 448 546 2182 701;">
+     The measured levels can exceed the allowed values in specific cases and in such cases, the engines need an exhaust treatment using a three way catalyst or a similar system to limit the emissions to allowed levels.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_3" lang="eng" title="bbox 447 739 2182 1008">
+    <span class="ocr_sent" title="bbox 447 739 2180 831;">
+     Limits for dioxin in various western countries expressed as tolerable daily in- take are typically, 1 to 10 pg per kg bodyweight (1 pg =10~'2¢).
+    </span>
+    <span class="ocr_sent" title="bbox 447 797 2182 1000;">
+     Because the toxicity is high even at low levels, and all improvements are related to bringing the mag- nitude to very low levels fine measurement systems are required to be designed to obtain these values accurately.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_4" lang="eng" title="bbox 455 1153 1554 1211">
+    <span class="ocr_sent" title="bbox 455 1154 561 1199;">
+     16.5
+    </span>
+    <span class="ocr_sent" title="bbox 624 1153 1554 1211;">
+     Strategies for emission reduction
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_5" lang="eng" title="bbox 454 1297 1009 1335">
+    <span class="ocr_sent" title="bbox 454 1297 577 1335;">
+     16.5.1
+    </span>
+    <span class="ocr_sent" title="bbox 636 1297 1009 1335;">
+     Carbon dioxide
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_6" lang="eng" title="bbox 446 1418 2183 2364">
+    <span class="ocr_sent" title="bbox 447 1418 2180 1574;">
+     The emission of CO, can be brought down only by improving the efficiency of the process that uses any of the fuels (reducing kg fuel per unit product output, the output being electricity or a certain distance moved or a physical product).
+    </span>
+    <span class="ocr_sent" title="bbox 447 1532 2180 1743;">
+     Replac- ing fossil fuels by renewable fuels (that can be generated at least at the same rate as its use) so that neutrality of CO, production is achieved is another approach ac- tively being pursued in recent times.
+    </span>
+    <span class="ocr_sent" title="bbox 446 1700 2180 1856;">
+     The argument that if we replace fossil fuels by biomass it is adequate to meet the obligation of CO, reduction has some subtle aspects.
+    </span>
+    <span class="ocr_sent" title="bbox 641 1813 2179 1848;">
+     Biomass is used as the primary fuel in stoves for domestic applications.
+    </span>
+    <span class="ocr_sent" title="bbox 448 1870 2180 1961;">
+     In most parts of the world, the stove is operated with inadequate air-to-fuel ratio control leading to emissions of UHC and CO.
+    </span>
+    <span class="ocr_sent" title="bbox 447 1927 2183 2082;">
+     This is partly due to stoves being used in regions where no electricity is available, and so the ever varying and fluc- tuating inflow of air into the combustion space due to buoyancy is all a certainty.
+    </span>
+    <span class="ocr_sent" title="bbox 447 2096 2182 2252;">
+     The greenhouse effect of some of these gases is substantive andit is argued that a well-managed fossil fuel stove would produce lesser green house gas effect in com- parison to poorly burning biomass stove.
+    </span>
+    <span class="ocr_sent" title="bbox 448 2209 2180 2356;">
+     The key requirement then is to ensure a biomass stove design that delivers high combustion efficiency, something that is consistent with the burning of pollutants as completely as possible.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_7" lang="eng" title="bbox 454 2495 1073 2533">
+    <span class="ocr_sent" title="bbox 454 2495 584 2533;">
+     16.5.2
+    </span>
+    <span class="ocr_sent" title="bbox 636 2495 1073 2533;">
+     Carbon monoxide
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_8" lang="eng" title="bbox 447 2616 2182 2885">
+    <span class="ocr_sent" title="bbox 447 2616 2180 2708;">
+     The CO emission from industrial sources is minimized by ensuring some excess air and a good mixing of the fuel and the air.
+    </span>
+    <span class="ocr_sent" title="bbox 447 2674 2182 2764;">
+     Increased excess air implies larger in-house power consumption for delivering this air.
+    </span>
+    <span class="ocr_sent" title="bbox 447 2729 2180 2820;">
+     Hence, careful optimization is needed to allow a minimum of excess air.
+    </span>
+    <span class="ocr_sent" title="bbox 447 2785 2180 2877;">
+     In the case of automobiles, one needs to use a catalyst to burn off the more-than-prescribed CO.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_9" lang="eng" title="bbox 451 3042 520 3075">
+    <span class="ocr_sent" title="bbox 451 3042 520 3075;">
+     158
+    </span>
+   </p>
+  </div>
+ </body>
+</html>

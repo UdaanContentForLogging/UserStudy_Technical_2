@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+  </title>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="tesseract 5.0.0-alpha-20201231-256-g73a32" name="ocr-system"/>
+  <meta content="ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf" name="ocr-capabilities"/>
+ </head>
+ <body>
+  <div class="ocr_page" id="page_1" title='image "/home/ruralivrs/book-ocr/output_books/UnderstandingCombustion/page_images/p-168.jpg"; bbox 0 0 2481 3508; ppageno 0'>
+   <p class="ocr_par" id="par_1_1" lang="eng" title="bbox 451 302 1322 345">
+    <span class="ocr_sent" title="bbox 451 302 1322 337;">
+     16 Emissions from Combustion Systems
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_2" lang="eng" title="bbox 462 432 2183 983">
+    <span class="ocr_sent" title="bbox 462 432 2182 524;">
+     EGR: The use of exhaust gas recirculation (EGR) reduces the flame temperature for both premixed and non-premixed flames.
+    </span>
+    <span class="ocr_sent" title="bbox 561 489 2181 693;">
+     There are ways of arranging EGR in combustion chambers in which the oxidiser and fuel jets are introduced sepa- rately at high velocity (50 to 100 m/s) from a base so that the burnt gases are entrained into the fuel and oxidiser streams.
+    </span>
+    <span class="ocr_sent" title="bbox 561 659 2183 862;">
+     This process allows the mixing to occur without reaction till a stage when the fuel and the oxidiser fractions have been brought down to low levels while the temperature has risen to about 1200 K.
+    </span>
+    <span class="ocr_sent" title="bbox 561 827 2180 919;">
+     In this condition the entire system works almost like a stirred reac- tor.
+    </span>
+    <span class="ocr_sent" title="bbox 561 884 2181 983;">
+     This process reduces the peak temperature by about 100 to 150 K and helps reduce the emission of thermal NO,.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_3" lang="eng" title="bbox 446 1067 2181 1166">
+    <span class="ocr_sent" title="bbox 446 1067 2181 1166;">
+     Air preheat: Use of preheated air for the same flame temperature allows very lean operation and hence decrease in prompt NO generation.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_4" lang="eng" title="bbox 454 1313 739 1351">
+    <span class="ocr_sent" title="bbox 454 1313 584 1351;">
+     16.5.5
+    </span>
+    <span class="ocr_sent" title="bbox 638 1313 739 1351;">
+     UHC
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_5" lang="eng" title="bbox 446 1437 2187 1932">
+    <span class="ocr_sent" title="bbox 446 1437 2180 1585;">
+     Release of UHC from industrial burners is not a very serious issue because ample residence time can usually be given to the reactants inside the combustion cham- ber.
+    </span>
+    <span class="ocr_sent" title="bbox 447 1550 2180 1642;">
+     Meeting the UHC emission standards for diesel engines calls for fine atom- ization of diesel and good mixing of it with air inside the cylinders.
+    </span>
+    <span class="ocr_sent" title="bbox 447 1607 2187 1811;">
+     In the case of spark-ignition engines the emission standard is met by fitting a catalyst, generally a three-way catalyst, which achieves simultaneously the oxidation of UHC, CO and the reduction of NO.
+    </span>
+    <span class="ocr_sent" title="bbox 447 1777 2180 1932;">
+     For this to be possible, the mixture has to be very close to sto- ichiometric condition, which motivates partly the use of complex electronic engine management control systems in modern cars.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_6" lang="eng" title="bbox 447 1970 2187 2747">
+    <span class="ocr_sent" title="bbox 447 1970 2180 2069;">
+     The exhaust is passed over a usually precious metal surface of platinum, nickel, rhodium, etc, that has a very high surface area.
+    </span>
+    <span class="ocr_sent" title="bbox 448 2027 2181 2175;">
+     The action of the metal is to cat- alyze the particular reactions related to oxidation of UHC and CO and the reduction of NO to N», so that its rate is high even at low temperatures (~ 400-900 K).
+    </span>
+    <span class="ocr_sent" title="bbox 447 2141 2180 2344;">
+     The mechanism of catalysis involves the diffusion of the reactants towards the surface, their adsorption by the metal surface, particularly in the active sites where the re- actants meet to form the product.
+    </span>
+    <span class="ocr_sent" title="bbox 447 2309 2181 2513;">
+     This product is then desorbed back to the gas phase, to be removed by mass transfer (diffusion) into the bulk stream (adsorption means a chemical bonding between the reactant molecule and the atom (s) on the metal and desorption implies the breaking of this bond).
+    </span>
+    <span class="ocr_sent" title="bbox 447 2478 2187 2626;">
+     The rate of the overall process depends on the nature of the catalyst, the temperature, and the fluxes of the gas inside the catalytic bed.
+    </span>
+    <span class="ocr_sent" title="bbox 448 2591 2180 2683;">
+     Catalyst can degrade with time due to impurities and poisoning, particularly from sulphur compounds.
+    </span>
+    <span class="ocr_sent" title="bbox 447 2648 2181 2739;">
+     Hence the fuel is processed to remove all the sulphur in catalyst-fitted cars.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_7" lang="eng" title="bbox 447 2785 2180 2877">
+    <span class="ocr_sent" title="bbox 518 2786 733 2820;">
+     Table 16.1
+    </span>
+    <span class="ocr_sent" title="bbox 447 2785 2180 2877;">
+     sets out many of the above observations to enable a quick apprecia- tion.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_8" lang="eng" title="bbox 451 3042 520 3075">
+    <span class="ocr_sent" title="bbox 451 3042 520 3075;">
+     160
+    </span>
+   </p>
+  </div>
+ </body>
+</html>

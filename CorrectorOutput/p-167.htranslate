@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+  </title>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="tesseract 5.0.0-alpha-20201231-256-g73a32" name="ocr-system"/>
+  <meta content="ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf" name="ocr-capabilities"/>
+ </head>
+ <body>
+  <div class="ocr_page" id="page_1" title='image "/home/ruralivrs/book-ocr/output_books/UnderstandingCombustion/page_images/p-167.jpg"; bbox 0 0 2481 3508; ppageno 0'>
+   <p class="ocr_par" id="par_1_1" lang="eng" title="bbox 1210 302 2033 345">
+    <span class="ocr_sent" title="bbox 1210 304 1295 337;">
+     16.5
+    </span>
+    <span class="ocr_sent" title="bbox 1342 302 2033 345;">
+     Strategies for emission reduction
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_2" lang="eng" title="bbox 305 429 833 475">
+    <span class="ocr_sent" title="bbox 305 429 435 467;">
+     16.5.3
+    </span>
+    <span class="ocr_sent" title="bbox 487 429 833 475;">
+     Sulphur oxides
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_3" lang="eng" title="bbox 297 545 2033 870">
+    <span class="ocr_sent" title="bbox 297 545 2033 645;">
+     Current emission standards on sulphur oxide emissions are very strict and are met by post-combustion treatment of the exhaust gases.
+    </span>
+    <span class="ocr_sent" title="bbox 298 603 2031 693;">
+     In coal-based power stations, this is achieved by scrubbing, i.e.,
+    </span>
+    <span class="ocr_sent" title="bbox 298 659 2031 812;">
+     mixing the exhaust gases with water droplets that contain limestone, which reacts with the oxide according to CaCO3 + SOs + 0.509
+    </span>
+    <span class="ocr_sent" title="bbox 428 773 787 805;">
+     — CaSO4 + COs.
+    </span>
+    <span class="ocr_sent" title="bbox 299 772 2031 862;">
+     The scrubbers are expensive and they constitute a signifi- cant fraction of the cost of a modern coal power station.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_4" lang="eng" title="bbox 298 909 2034 1290">
+    <span class="ocr_sent" title="bbox 299 909 2033 1000;">
+     In fluid bed systems, the addition of limestone to the feed ensures the absorption of sulphur oxides into the condensed phase.
+    </span>
+    <span class="ocr_sent" title="bbox 299 966 2032 1057;">
+     Sulphur is also a problem with diesel and residual oil.
+    </span>
+    <span class="ocr_sent" title="bbox 299 1022 2033 1103;">
+     Specifications on diesel ensure that sulphur fraction is very low - less than 0.3
+    </span>
+    <span class="ocr_sent" title="bbox 614 1079 659 1113;">
+     %.
+    </span>
+    <span class="ocr_sent" title="bbox 299 1078 2031 1178;">
+     Residual oil that is used for combustion in industries generates significant sulphur oxides.
+    </span>
+    <span class="ocr_sent" title="bbox 298 1135 2031 1226;">
+     These gases need to be scrubbed to ensure that the ox- ides are not emitted into the stack.
+    </span>
+    <span class="ocr_sent" title="bbox 298 1191 2034 1282;">
+     A dilute alkaline spray wash helps in retaining the oxides within the industry for off-line treatment.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_5" lang="eng" title="bbox 305 1394 924 1442">
+    <span class="ocr_sent" title="bbox 305 1394 435 1432;">
+     16.5.4
+    </span>
+    <span class="ocr_sent" title="bbox 487 1394 924 1432;">
+     Oxides of nitrogen
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_6" lang="eng" title="bbox 297 1510 2033 1779">
+    <span class="ocr_sent" title="bbox 297 1510 2032 1658;">
+     Reducing NO in combustion systems has been a major preoccupation of the com- bustion scientists and industry for the past two decades (and continues to be so even now).
+    </span>
+    <span class="ocr_sent" title="bbox 298 1623 2033 1715;">
+     It is recognized that its production is low in fuel rich regions, lower flame temperature and with shorter residence times.
+    </span>
+    <span class="ocr_sent" title="bbox 298 1680 2033 1779;">
+     All these factors are used for reducing the NO emission.
+    </span>
+    <span class="ocr_sent" title="bbox 878 1736 1889 1771;">
+     The following schemes describe the alternatives.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_7" lang="eng" title="bbox 300 1858 2033 2014">
+    <span class="ocr_sent" title="bbox 300 1858 2033 1950;">
+     Lean burn scheme: Whereever possible, one can use lea,n premixed combustion with a low flame temperature.
+    </span>
+    <span class="ocr_sent" title="bbox 413 1915 2033 2006;">
+     This is however thermodynamically inefficient and usually not adopted.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_8" lang="eng" title="bbox 300 2062 2032 2387">
+    <span class="ocr_sent" title="bbox 300 2062 2032 2266;">
+     Rich-Quench-Lean: This is a technique generally adopted in gas turbines, where a rich flame is used in the primary zone of the combustor (for stability); rapid mixing with air lowers the temperature to reasonable levels quickly, and then, the extra fuel burns under lean conditions.
+    </span>
+    <span class="ocr_sent" title="bbox 412 2231 2032 2323;">
+     Various variants of the scheme are used in all low NO, burners.
+    </span>
+    <span class="ocr_sent" title="bbox 412 2289 2032 2378;">
+     The aim always is to minimize the residence time in the high-temperature region.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_9" lang="eng" title="bbox 297 2435 2031 2534">
+    <span class="ocr_sent" title="bbox 297 2435 2031 2534;">
+     Ammonia injection: The NO emitted from coal combustion is controlled by react- ing it with a reducing agent like ammonia.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_10" lang="eng" title="bbox 300 2582 2033 2736">
+    <span class="ocr_sent" title="bbox 300 2582 1735 2617;">
+     Reburn: This technique employs the inverse of prompt mechanism.
+    </span>
+    <span class="ocr_sent" title="bbox 412 2582 2033 2730;">
+     Extra fuel is injected after the first flame for extra power and for transforming the NO back to No.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_11" lang="eng" title="bbox 300 2785 2033 2877">
+    <span class="ocr_sent" title="bbox 300 2785 2033 2877;">
+     Use of catalyst: The NO emitted from gasoline engines is reduced by a catalyst in the exhaust.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_12" lang="eng" title="bbox 1963 3042 2031 3075">
+    <span class="ocr_sent" title="bbox 1963 3042 2031 3075;">
+     159
+    </span>
+   </p>
+  </div>
+ </body>
+</html>
